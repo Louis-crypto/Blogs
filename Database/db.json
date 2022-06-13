@@ -1,0 +1,16 @@
+{
+  "Blogs": [
+    {
+      "title": "Life is GOOD",
+      "Body": "Where there is life there is hope, and where there is hope there is life",
+      "author": "Sad Programmer",
+      "id": 1
+    },
+    {
+      "title": "Motivation",
+      "Body": "Life is like an onion, you peel one layer at a time and sometimes you cry",
+      "author": "Minute coder",
+      "id": 2
+    }
+  ]
+}
